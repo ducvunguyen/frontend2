@@ -5,7 +5,7 @@
  **Frontend 1 : Thực hành html 2** .
 
 
-Thực hiện bởi [Phạm Hữu Thưởng](https://github.com/pkvip9999)
+Thực hiện bởi [Nguyen Duc Vu](https://github.com/ducvunguyen)
 
 ## Liên kết
 
